@@ -9,8 +9,7 @@ For back-end installation, follow the directions on the ReadMe within the folder
 
 For the front-end, the directions are in the folder "frontend".
 
-Work In-Progress:
-
+Work In-Progress for Version 2:
 - Launch website
 - Get new API Keys
 - Rewrite front-end using React 
