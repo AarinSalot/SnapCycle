@@ -16,10 +16,7 @@ On Windows:
 ```
 set REPLICATE_API_TOKEN=[key]
 ```
-
-
-
-### Run Flask Server
+## Run Flask Server
 ```
 python -m flask run --port=5001 --debug
 ```
