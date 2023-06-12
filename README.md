@@ -14,4 +14,4 @@ Work In-Progress:
 - Launch website
 - Get new API Keys
 - Rewrite front-end using React 
-- Centralization Installation Documentation 
+- Centralize Installation Documentation 
