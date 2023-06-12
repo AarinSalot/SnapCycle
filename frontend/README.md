@@ -1,5 +1,3 @@
-# snapcycle
-
 ## Project setup
 ```
 npm install
