@@ -1,7 +1,9 @@
 # SnapCycle
 
 
-Welcome to SnapCycle! 
+Welcome to SnapCycle, our submission to AECtech LA 2023. This project was awarded the "Most Sustainable Project" prize. 
+
+Here's a link to our presentation: https://www.figma.com/proto/sk4tTP6qy2wUn7eslqg4ht/Slides?type=design&node-id=229-17&scaling=contain&page-id=229%3A16
 
 For back-end installation, follow the directions on the ReadMe within the folder "snapCycle_FlaskEndPoint". 
 
