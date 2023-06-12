@@ -1,4 +1,3 @@
-# snapcycle
 ```
 This is a flask backend endpoint to access Replicate API for BLIP model.
 ```
