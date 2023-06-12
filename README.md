@@ -5,9 +5,9 @@ Welcome to SnapCycle, our submission to AECtech LA 2023. This project was awarde
 
 Here's a link to our presentation: https://www.figma.com/proto/sk4tTP6qy2wUn7eslqg4ht/Slides?type=design&node-id=229-17&scaling=contain&page-id=229%3A16
 
-For back-end installation, follow the directions on the ReadMe within the folder "back-end". 
+For back-end installation, follow the directions on the ReadMe within the folder "backend". 
 
-For the front-end, the directions are in the folder "front-end".
+For the front-end, the directions are in the folder "frontend".
 
 Work In-Progress:
 
