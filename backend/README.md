@@ -1,6 +1,5 @@
-```
-This is a flask backend endpoint to access Replicate API for BLIP model.
-```
+
+This is a flask backend endpoint to access Replicate API for BLIP model. 
 
 ## Project setup
 To activate virtual environment: 
